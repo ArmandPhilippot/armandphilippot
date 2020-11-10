@@ -1,7 +1,5 @@
 ![France](https://img.shields.io/badge/Country-France-efefef?style=for-the-badge&colorA=02478e) ![Website](https://img.shields.io/website?label=Website&down_message=offline&style=for-the-badge&up_color=efefef&colorA=02478e&up_message=online&url=https%3A%2F%2Fwww.armandphilippot.com%2F)
 
-![Header](./assets/images/header.gif)
-
 **My languages:**  
 ![French](https://img.shields.io/badge/-French-02478e?style=for-the-badge) ![English](https://img.shields.io/badge/-English-02478e?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330) ![PHP](https://img.shields.io/badge/-PHP-6181B6?style=for-the-badge&logo=php&logoColor=white)
 

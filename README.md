@@ -1,16 +1,44 @@
-![France](https://img.shields.io/badge/Country-France-efefef?style=for-the-badge&colorA=02478e) ![Website](https://img.shields.io/website?label=Website&down_message=offline&style=for-the-badge&up_color=efefef&colorA=02478e&up_message=online&url=https%3A%2F%2Fwww.armandphilippot.com%2F)
+<p align="center"><img src="./src/logos/logo.svg" width="80px" height="80px" /></p>
 
-**My languages:**  
-![French](https://img.shields.io/badge/-French-02478e?style=for-the-badge) ![English](https://img.shields.io/badge/-English-02478e?style=for-the-badge) ![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CB6699?style=for-the-badge&logo=sass&logoColor=white) ![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330) ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-6181B6?style=for-the-badge&logo=php&logoColor=white)
+<p align="center"><img src="https://img.shields.io/badge/Country-France%20🇫🇷-efefef?style=for-the-badge&colorA=02478e" alt="France" /> <a href="https://www.armandphilippot.com/"><img src="https://img.shields.io/badge/Website-armandphilippot.com-efefef?style=for-the-badge&colorA=02478e" alt="Website" /></a></p>
 
-**My tools:**  
-![WordPress](https://img.shields.io/badge/-WordPress-32373c?style=for-the-badge&logo=wordpress&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black) ![VS Code](https://img.shields.io/badge/-VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-3E474A?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F34F29?style=for-the-badge&logo=git&logoColor=white) ![composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=composer&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white) ![Gulp](https://img.shields.io/badge/-Gulp-EB4A4B?style=for-the-badge&logo=gulp&logoColor=white) ![webpack](https://img.shields.io/badge/-webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-00AADA?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+<h1 align="center">Hey! I'm Armand.</h1>
 
-**My system:**  
-![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![XFCE](https://img.shields.io/badge/-XFCE-2284F2?style=for-the-badge&logo=XFCE&logoColor=white)
+🎧 My name is pronounced: `/aʁ.mɑ̃/ /fi.li.po/`.
 
-**Still learning (paused):**  
-![Symfony](https://img.shields.io/badge/-Symfony-1A171B?style=for-the-badge&logo=symfony&logoColor=white)
+💬 I speak French, English and I can understand some Spanish.
 
-**Meet me elsewhere:**  
-You can also find me on [my website](https://www.armandphilippot.com/) (in French 🇫🇷).
+📬 You can reach me through:
+
+* the contact page of <a href="https://www.armandphilippot.com/">my website</a>,
+* the <a href="https://github.com/ArmandPhilippot/armandphilippot/issues">issues</a>,
+* or the <a href="https://github.com/ArmandPhilippot/armandphilippot/discussions">discussions</a>.
+
+<p><b>MY ENVIRONMENT</b></p>
+
+![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=white)
+![XFCE](https://img.shields.io/badge/-XFCE-2284F2?style=flat-square&logo=XFCE&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<p><b>MY LANGUAGES</b></p>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CB6699?style=flat-square&logo=sass&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=323330)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-6181B6?style=flat-square&logo=php&logoColor=white)
+
+<p><b>SOME TOOLS I LIKE TO USE</b></p>
+
+<a href="https://reactjs.org/"><img src="./src/logos/tech/react.svg" alt="React" title="React" width="30px" height="30px" /></a>
+<a href="https://nextjs.org/"><img src="./src/logos/tech/nextjs.svg" alt="NextJS" title="NextJS" width="30px" height="30px" /></a>
+<a href="https://storybook.js.org/"><img src="./src/logos/tech/storybook.svg" alt="Storybook" title="Storybook" width="30px" height="30px" /></a>
+<a href="https://vanilla-extract.style/"><img src="./src/logos/tech/vanilla-extract.svg" alt="Vanilla Extract" title="Vanilla Extract" width="30px" height="30px" /></a>
+<a href="https://vitejs.dev/"><img src="./src/logos/tech/vite.svg" alt="Vite" title="Vite" width="30px" height="30px" /></a>
+<a href="https://vitest.dev/"><img src="./src/logos/tech/vitest.svg" alt="Vitest" title="Vitest" width="30px" height="30px" /></a>
+<a href="https://prettier.io/"><img src="./src/logos/tech/prettier.svg" alt="Prettier" title="Prettier" width="30px" height="30px" /></a>
+<a href="https://eslint.org/"><img src="./src/logos/tech/eslint.svg" alt="ESlint" title="ESlint" width="30px" height="30px" /></a>
+<a href="https://stylelint.io/"><img src="./src/logos/tech/stylelint.svg" alt="Stylelint" title="Stylelint" width="30px" height="30px" /></a>
+<a href="https://pnpm.io/"><img src="./src/logos/tech/pnpm.svg" alt="pnpm" title="pnpm" width="30px" height="30px" /></a>
+<a href="https://git-scm.com/"><img src="./src/logos/tech/git.svg" alt="Git" title="Git" width="30px" height="30px" /></a>

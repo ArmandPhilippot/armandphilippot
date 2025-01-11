@@ -24,10 +24,7 @@
 
 📊 Some stats:
 
-<div style="display:flex;flex-flow: row wrap;gap:1rem;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandPhilippot&theme=transparent)](https://github.com/ArmandPhilippot/github-readme-stats)
-
-[![@ArmandPhilippot Astro contributions](https://astro.badg.es/v2/contributor/ArmandPhilippot.svg)](https://astro.badg.es/contributor/ArmandPhilippot/)
-
+<div>
+<img align="top" alt="Most used languages by @ArmandPhilippot" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandPhilippot&theme=transparent" />
+<a align="top" href="https://astro.badg.es/contributor/ArmandPhilippot/"><img alt="Contributions of Armand Philippot to Astro" src="https://astro.badg.es/v2/contributor/ArmandPhilippot.svg" /></a>
 </div>

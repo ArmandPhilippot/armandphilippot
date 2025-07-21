@@ -16,7 +16,7 @@
 
 🛠 Here are some details about my environment, languages and tools I like to use:
 
-- Manjaro XFCE with Code - OSS
+- EndeavourOS, XFCE, Code - OSS
 - HTML, CSS/SCSS, Typescript and some PHP
 - Astro, React, Next.js, Vitest, Prettier, ESlint, Stylelint, pnpm
 

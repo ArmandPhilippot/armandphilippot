@@ -20,7 +20,7 @@
 - HTML, CSS/SCSS, Typescript and some PHP
 - Astro, React, Next.js, Vitest, Prettier, ESlint, Stylelint, pnpm
 
-🧩 Maintainer on @withastro #docs
+🧩 Core maintainer on @withastro (team #docs mostly, but you might also meet me in issues triaging and support!)
 
 📊 Some stats:
 

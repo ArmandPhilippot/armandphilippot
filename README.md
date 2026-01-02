@@ -16,7 +16,7 @@
 - HTML, CSS/SCSS, Typescript and some PHP
 - Astro, React, Vitest, Prettier, ESlint, Stylelint, pnpm
 
-🧩 Core maintainer on @withastro and maintainer on @withstudiocms.
+🧩 Core maintainer on [@withastro](https://github.com/withastro) and maintainer on [@withstudiocms](https://github.com/withstudiocms).
 
 📊 My Astro contributions:
 
